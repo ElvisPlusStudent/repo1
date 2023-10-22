@@ -1,3 +1,0 @@
-Repository: repo1
-Branch: main
-Date and Time: 22.10.2023 - 05:15:55
